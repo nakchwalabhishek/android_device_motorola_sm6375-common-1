@@ -291,7 +291,8 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/google/pixel \
     hardware/statix/interfaces/power-libperfmgr \
     hardware/motorola \
-    hardware/qcom-caf/common/libqti-perfd-client
+    hardware/qcom-caf/common/libqti-perfd-client \
+    hardware/qcom-caf/wlan/qcwcn
 
 # Telephony
 PRODUCT_PACKAGES += \
